@@ -1,0 +1,11 @@
+C:\Users\caljf\Documents\fiboapp\bin\Debug\netcoreapp2.0\fiboapp.deps.json
+C:\Users\caljf\Documents\fiboapp\bin\Debug\netcoreapp2.0\fiboapp.runtimeconfig.json
+C:\Users\caljf\Documents\fiboapp\bin\Debug\netcoreapp2.0\fiboapp.runtimeconfig.dev.json
+C:\Users\caljf\Documents\fiboapp\bin\Debug\netcoreapp2.0\fiboapp.dll
+C:\Users\caljf\Documents\fiboapp\bin\Debug\netcoreapp2.0\fiboapp.pdb
+C:\Users\caljf\Documents\fiboapp\obj\Debug\netcoreapp2.0\fiboapp.csprojResolveAssemblyReference.cache
+C:\Users\caljf\Documents\fiboapp\obj\Debug\netcoreapp2.0\fiboapp.csproj.CoreCompileInputs.cache
+C:\Users\caljf\Documents\fiboapp\obj\Debug\netcoreapp2.0\fiboapp.AssemblyInfoInputs.cache
+C:\Users\caljf\Documents\fiboapp\obj\Debug\netcoreapp2.0\fiboapp.AssemblyInfo.cs
+C:\Users\caljf\Documents\fiboapp\obj\Debug\netcoreapp2.0\fiboapp.dll
+C:\Users\caljf\Documents\fiboapp\obj\Debug\netcoreapp2.0\fiboapp.pdb
